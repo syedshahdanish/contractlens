@@ -81,7 +81,20 @@ The app opens at `http://localhost:8501`.
 
 ## 📸 Screenshots
 
-*Full dashboard screenshots coming soon — risk gauge, severity breakdown, expandable risk cards, and conversational chat interface.*
+### Landing
+![ContractLens landing page](screenshots/01-hero.png)
+
+### Risk Gauge & Distribution
+![Risk score gauge and severity distribution donut](screenshots/02-risk-gauge.png)
+
+### Key Metrics
+![High, medium, low risk counts at a glance](screenshots/03-key-metrics.png)
+
+### Negotiation Strategy
+![AI-generated negotiation suggestions for each risky clause](screenshots/04-negotiation.png)
+
+### Chat With Your Contract
+![Conversational Q&A interface](screenshots/05-chat.png)
 
 ## 🏆 Hackathon
 

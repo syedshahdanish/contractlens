@@ -1,0 +1,16 @@
+# Secrets — NEVER commit
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit runtime files
+temp.pdf
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

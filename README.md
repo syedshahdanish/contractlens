@@ -51,7 +51,7 @@ ContractLens analyzes any contract in 30 seconds using Gemini 2.5 Flash's long-c
 
 ## 🚀 Live Demo
 
-🔗 **[contractlens.streamlit.app](https://contractlens.streamlit.app)** *(URL will be updated after deployment)*
+🔗 **[contractlens-app.streamlit.app](https://contractlens-app.streamlit.app/)**
 
 ## 💻 Run Locally
 

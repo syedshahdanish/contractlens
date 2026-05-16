@@ -1,5 +1,11 @@
+import os
 import streamlit as st
 import plotly.graph_objects as go
+
+# For Streamlit Cloud: load API key from secrets into env var
+if hasattr(st, 'secrets') and "GEMINI_API_KEY" in st.secrets:
+    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
+
 from contract_analyzer import extract_pdf_text, analyze_contract, chat_with_contract
 
 st.set_page_config(
